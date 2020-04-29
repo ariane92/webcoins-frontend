@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 
 import income from '../../assets/income.svg';
 import outcome from '../../assets/outcome.svg';

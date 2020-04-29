@@ -22,6 +22,7 @@ export const Container = styled.div<ContainerProps>`
         text-decoration: none;
         font-size: 16px;
         transition: opacity 0.2s;
+        display: inline-block;
 
         & + a {
           margin-left: 32px;
