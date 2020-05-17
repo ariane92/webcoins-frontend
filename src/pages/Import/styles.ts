@@ -34,7 +34,7 @@ export const Footer = styled.section`
     align-items: center;
     font-size: 12px;
     line-height: 18px;
-    color: #969cb3;
+    color: #2039cc;
 
     img {
       margin-right: 5px;
