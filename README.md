@@ -25,13 +25,15 @@ Aplicação de finanças que lista transações financeiras, permitindo o upload
 
 <br/>
 
-### :computer: Tecnologias
+## :computer: Tecnologias
 - [ReactJS](https://github.com/facebook/react)
 - [TypeScript](https://github.com/microsoft/TypeScript)
 - [styled-components](https://github.com/styled-components/styled-components)
 - [axios](https://github.com/axios/axios)
 - [ESLint](https://github.com/eslint/eslint)
 - [Prettier](https://github.com/prettier/prettier)
+
+<br/>
 
 
 
