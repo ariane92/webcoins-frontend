@@ -2,6 +2,8 @@
 Aplicação de finanças que lista transações financeiras, permitindo o upload de novas transações através de arquivos CSV.
 <br/>
 
+Link para o backend: https://github.com/ariane92/webcoins-backend
+
 
 
 ## :gear: Como executar
@@ -37,4 +39,5 @@ Aplicação de finanças que lista transações financeiras, permitindo o upload
 
 
 
+###### Projeto com objetivo didático
 ###### 🚀 Bootcamp Rocketseat 
